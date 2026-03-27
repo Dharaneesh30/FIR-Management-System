@@ -1,0 +1,51 @@
+FIR NO,Name,Date,Crime_Type,Place,Status,Officer
+1001,Ravi Patel,01-05-2024 00:00,Murder,Salem,Closed,officer_5
+1003,Sneha Reddy,09-10-2024 00:00,Cybercrime,Madurai,Under Investigation,officer_5
+1005,Ramesh Das,03-12-2024 00:00,Domestic Violence,Madurai,Closed,officer_5
+1008,Vikram Kumar,02-07-2024 00:00,Domestic Violence,Trichy,Closed,officer_5
+1009,Anjali Singh,11-07-2024 00:00,Fraud,Tirunelveli,Under Investigation,Officer_1
+1010,Vikram Sharma,11-11-2024 00:00,Assault,Erode,Closed,Officer_5
+1014,Anjali Patel,08-11-2024 00:00,Fraud,Salem,Open,officer_5
+1015,Anjali Reddy,03-11-2024 00:00,Cybercrime,Madurai,Closed,officer_5
+1018,Anjali Sharma,08-10-2024 00:00,Kidnapping,Erode,Closed,officer_5
+1019,Sneha Nair,02-03-2024 00:00,Cybercrime,Trichy,Closed,officer_5
+1020,Ramesh Patel,06-05-2024 00:00,Domestic Violence,Tirunelveli,Closed,officer_5
+1026,Divya Kumar,09-03-2024 00:00,Fraud,Tirunelveli,Open,Officer_3
+1028,Priya Nair,06-04-2024 00:00,Cybercrime,Tirunelveli,Closed,officer_5
+1029,Meena Verma,11-03-2024 00:00,Domestic Violence,Erode,Closed,Officer_3
+1032,Ravi Singh,12-05-2024 00:00,Domestic Violence,Madurai,Closed,officer_5
+1033,Vikram Patel,11-02-2024 00:00,Cybercrime,Trichy,Closed,officer_5
+1035,Divya Kumar,07-05-2024 00:00,Kidnapping,Madurai,Closed,officer_5
+1037,Ramesh Kumar,09-08-2024 00:00,Cybercrime,Erode,Closed,officer_5
+1038,Arun Singh,03-03-2024 00:00,Assault,Erode,Open,Officer_3
+1041,Vikram Verma,06-06-2024 00:00,Fraud,Tirunelveli,Open,Officer_1
+1047,Sneha Das,02-07-2024 00:00,Cybercrime,Tirunelveli,Closed,officer_5
+1051,Divya Singh,01-01-2024 00:00,Cybercrime,Trichy,Closed,officer_5
+1053,Ravi Kumar,02-07-2024 00:00,Cybercrime,Salem,Under Investigation,Officer_3
+1055,Divya Menon,09-09-2024 00:00,Theft,Tirunelveli,Open,Officer_4
+1056,Karthik Kumar,05-12-2024 00:00,Cybercrime,Coimbatore,Open,none
+1059,Vikram Reddy,07-05-2024 00:00,Assault,Salem,Under Investigation,Officer_3
+1062,Vikram Das,02-03-2024 00:00,Kidnapping,Chennai,Closed,officer_5
+1064,Ramesh Verma,05-12-2024 00:00,Theft,Madurai,Open,Officer_4
+1065,Anjali Reddy,05-07-2024 00:00,Assault,Tirunelveli,Closed,officer_5
+1067,Ravi Verma,12-07-2024 00:00,Assault,Coimbatore,Closed,officer_5
+1068,Priya Nair,09-01-2024 00:00,Murder,Chennai,Closed,officer_5
+1071,Priya Nair,09-03-2024 00:00,Kidnapping,Chennai,Open,Officer_1
+1075,Karthik Sharma,12-11-2024 00:00,Assault,Tirunelveli,Closed,officer_5
+1076,Karthik Verma,12-12-2024 00:00,Theft,Tirunelveli,Under Investigation,Officer_3
+1077,Arun Reddy,06-04-2024 00:00,Theft,Chennai,Open,Officer_2
+1078,Meena Sharma,07-08-2024 00:00,Theft,Coimbatore,Under Investigation,Officer_3
+1081,Ramesh Reddy,12-07-2024 00:00,Domestic Violence,Tirunelveli,Open,Officer_2
+1082,Vikram Kumar,08-01-2024 00:00,Kidnapping,Coimbatore,Closed,officer_5
+1089,Divya Verma,10-04-2024 00:00,Theft,Erode,Closed,officer_5
+1093,Sneha Menon,07-04-2024 00:00,Theft,Salem,Under Investigation,Officer_3
+1095,Karthik Nair,02-10-2024 00:00,Assault,Coimbatore,Open,Officer_4
+1096,Ravi Verma,03-01-2024 00:00,Domestic Violence,Tirunelveli,Open,none
+1098,Anjali Kumar,05-10-2024 00:00,Murder,Trichy,Closed,officer_5
+1101,Dharaneesh,2025-09-03,Murder,Coimbatore,Open,None
+1124,Shiva,2025-09-08,Murder,Coimbatore,Open,None
+1105,Ravi Kumar,2025-05-17,Murder,Coimbatore,Open,officer_2
+1132,Pavilesh,2025-09-06,Murder,Coimbatore,Closed,Officer 5
+1118,Shivanesh,2025-03-05,Murder,Theni,Open,None
+1034,Leela,2025-09-07,Murder,Coimbatore,Open,None
+1120,Shivgosh,2025-09-06,Murder,Coimbatore,Open,Officer_2
